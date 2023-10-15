@@ -1,0 +1,6 @@
+item1,item2,item3,item4,item5,item6
+NaN,1,1,1,1,None
+2,2,NaN,2,2,None
+3,3,3,NaN,3,None
+4,4,4,NaN,NaN,None
+5,5,NaN,NaN,5,None
